@@ -9,6 +9,8 @@ Business Benefits
 •	High availability - Multi-tier redundancy
 •	Infrastructure automation - Automated provisioning and deployment
 •	Faster migration - Production-ready in days, not months
+<img width="975" height="532" alt="image" src="https://github.com/user-attachments/assets/f8687a1e-2dfc-44b4-b703-4a2f588b00d2" />
+
 ________________________________________
 Architecture
 3-Tier Production Architecture
